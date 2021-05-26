@@ -7,3 +7,5 @@ https://huggingface.co/transformers/model_doc/wav2vec2.html
 
 Audio Sample https://github.com/Ajax0564/Video-Audiot-Transcriptor/blob/main/Sample.mp3
 
+![](https://github.com/Ajax0564/Video-Audiot-Transcriptor/blob/main/wav2vec2-facebook-ai-header.jpg)
+
