@@ -9,3 +9,5 @@ Audio Sample https://github.com/Ajax0564/Video-Audiot-Transcriptor/blob/main/Sam
 
 ![](https://github.com/Ajax0564/Video-Audiot-Transcriptor/blob/main/wav2vec2-facebook-ai-header.jpg)
 
+
+
